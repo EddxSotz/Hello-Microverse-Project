@@ -14,17 +14,12 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
+  - [Install](#install)   
+  - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -35,11 +30,11 @@
 <!-- PROJECT DESCRIPTION -->
 
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
 
 
-Hello Microverse is a Microverse project to teach best practices for developers
+Hello Microverse is a Microverse project on second day meant to teach best development practices for students
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,19 +49,13 @@ Hello Microverse is a Microverse project to teach best practices for developers
 
 > There are no features at the moment
 
--
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
 
 <!-- GETTING STARTED -->
 
@@ -77,45 +66,55 @@ To get a local copy up and running, follow these steps..
 ### Prerequisites
 
 In order to run this project you need:
--
--
+<ul>
+<li><a href="https://git-scm.com/">Git</a></li>
+<li><a href="https://www.npmjs.com/">NPM</a></li>
+<li><a href="https://nodejs.org/en/">Node</a></li>
+<li><a href="https://code.visualstudio.com/">VS Code</a></li>
+</ul>
 
 
 ### Setup
 
 Clone this repository to your desired folder:
 
+git clone https://github.com/EddxSotz/Hello-Microverse-Project.git
+
+
 
 ### Install
 
 Install this project with:
--
--
 
+<details>
+  <summary><a href="https://developers.google.com/web/tools/lighthouse">Lighthouse</a></summary>
+  <ul>
+    <li><a href="https://developers.google.com/web/tools/lighthouse#devtools">In Chrome DevTools</a></li>
+    <li><a href="https://developers.google.com/web/tools/lighthouse#cli">From the command line</a></li>
+    <li><a href="https://developers.google.com/web/tools/lighthouse#programmatic">As a Node module</a></li>
+    <li><a href="https://developers.google.com/web/tools/lighthouse#psi">From a web UI</a></li>
+  </ul>
+</details>
 
-### Usage
+<details>
+  <summary><a href="https://webhint.io/">Webhint</a></summary>
+  <ul>
+    <li>Run: npm install --save-dev hint@7.x</li>
+  </ul>
+</details>
 
-To run the project, execute the following command:
-
-
-### Run tests
-
-To run tests, run the following command:
-
-
-
-### Deployment
-
-You can deploy this project using:
-
+<details>
+  <summary><a href="https://stylelint.io/">Stylelint</a></summary>
+  <ul>
+    <li>Run: npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x</li>
+  </ul>
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="Edy Joel Soto"></a>
-
-> Mention all of the collaborators of this project.
+## 👥 Authors <a name="authors"></a>
 
 👤 **Edy Soto**
 
@@ -128,7 +127,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
+-Building a WebPage
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,22 +141,13 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank...
+I would like to thank Microverse for providing the documentation and steps necesary to complete this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
