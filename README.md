@@ -14,17 +14,12 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
+  - [Install](#install)   
+  - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -35,11 +30,11 @@
 <!-- PROJECT DESCRIPTION -->
 
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
 
 
-Hello Microverse is a Microverse project to teach best practices for developers
+Hello Microverse is a Microverse project on second day meant to teach best development practices for students
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -54,7 +49,7 @@ Hello Microverse is a Microverse project to teach best practices for developers
 
 > There are no features at the moment
 
--
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -71,11 +66,12 @@ To get a local copy up and running, follow these steps..
 ### Prerequisites
 
 In order to run this project you need:
-
--Git
--Npm 
--Node
--VS code
+<ul>
+<li><a href="https://git-scm.com/">Git</a></li>
+<li><a href="https://www.npmjs.com/">NPM</a></li>
+<li><a href="https://nodejs.org/en/">Node</a></li>
+<li><a href="https://code.visualstudio.com/">VS Code</a></li>
+</ul>
 
 
 ### Setup
@@ -83,6 +79,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 git clone https://github.com/EddxSotz/Hello-Microverse-Project.git
+
+
 
 ### Install
 
